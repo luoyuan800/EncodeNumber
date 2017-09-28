@@ -3,6 +3,9 @@
 ## Usage
  *Game data saving, Java Application data saving, Java cache and so on.*
 
+## Java Doc
+https://luoyuan800.github.io/EncodeNumber/index.html
+
 ## Example
 
         EncodeLong encodeLong = new EncodeLong(100);
